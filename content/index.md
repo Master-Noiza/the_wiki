@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The World of Vilenought","created":"2025-09-01T12:43:35.854+02:00","modified":"2025-09-02T23:24:50.139+02:00","cssclasses":""}
+{"publish":true,"title":"The World of Vilenought","created":"2025-09-01T12:43:35.854+02:00","modified":"2025-09-03T00:23:01.875+02:00","cssclasses":""}
 ---
 
 ![[z_Assets/Banner.webp| banner p+cct]]
@@ -24,7 +24,7 @@
 
 > [!column| no-t no-i]
 >
->> [!bug| no-i ttl-c]- The Lore
+>> [!bug| clean no-i ttl-c]- The Lore
 >> 
 >> - [[1. The Compendium/1. The Magic of Vilenought/A_Overview\|The Magic of Vilenought]]
 >> - [[1. The Compendium/2. Atlas/1. Overview\|The Atlas]]
@@ -33,7 +33,7 @@
 >> - [[1. The Compendium/7. Herbarium/index\|The Herbarium]]
 >> - [[1. The Compendium/8. Bestiary/index\|The Bestiary]]
 >
->> [!error| no-i ttl-c]- The Mechanics
+>> [!error| clean no-i ttl-c]- The Mechanics
 
 
 ![[z_Assets/Divider_1.webp]]
