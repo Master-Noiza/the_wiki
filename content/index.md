@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"The World of Vilenought","created":"2025-09-01T12:43:35.854+02:00","modified":"2025-09-03T00:30:25.541+02:00","cssclasses":""}
+{"publish":true,"title":"The World of Vilenought","created":"2025-09-01T12:43:35.854+02:00","modified":"2025-09-03T00:36:29.038+02:00","cssclasses":""}
 ---
 
 ![[z_Assets/Banner.webp| banner p+cct]]
@@ -22,7 +22,7 @@
 
 ## <center> Table of Contents: <center/>
 
-> [!column| no-t no-i]
+> [!column| clean no-t no-i]
 >
 >> [!bug| no-i ttl-c]- The Lore
 >> 
